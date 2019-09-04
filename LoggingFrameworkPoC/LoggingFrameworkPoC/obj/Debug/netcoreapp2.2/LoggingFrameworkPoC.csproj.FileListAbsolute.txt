@@ -1,0 +1,8 @@
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\bin\Debug\netcoreapp2.2\LoggingFrameworkPoC.deps.json
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\bin\Debug\netcoreapp2.2\LoggingFrameworkPoC.runtimeconfig.json
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\bin\Debug\netcoreapp2.2\LoggingFrameworkPoC.runtimeconfig.dev.json
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\bin\Debug\netcoreapp2.2\LoggingFrameworkPoC.dll
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\obj\Debug\netcoreapp2.2\LoggingFrameworkPoC.csprojAssemblyReference.cache
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\obj\Debug\netcoreapp2.2\LoggingFrameworkPoC.csproj.CoreCompileInputs.cache
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\obj\Debug\netcoreapp2.2\LoggingFrameworkPoC.AssemblyInfoInputs.cache
+C:\Users\C854896\source\repos\LoggingFrameworkPoC\LoggingFrameworkPoC\obj\Debug\netcoreapp2.2\LoggingFrameworkPoC.AssemblyInfo.cs

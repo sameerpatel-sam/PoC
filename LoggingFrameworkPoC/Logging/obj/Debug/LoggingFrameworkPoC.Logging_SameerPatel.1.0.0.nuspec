@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LoggingFrameworkPoC.Logging_SameerPatel</id>
+    <version>1.0.0</version>
+    <authors>Sameer Patel</authors>
+    <owners>Sameer Patel</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <tags>MidasLoggingPoCSameerPatel</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.Logging" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SQLite" version="1.0.111" exclude="Build,Analyzers" />
+        <dependency id="sqlite" version="3.13.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\C854896\source\repos\LoggingFrameworkPoC\Logging\bin\Debug\netstandard2.0\LoggingFrameworkPoC.Logging.dll" target="lib\netstandard2.0\LoggingFrameworkPoC.Logging.dll" />
+  </files>
+</package>
